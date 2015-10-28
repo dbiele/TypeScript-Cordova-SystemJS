@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="expires" content="wed, 7 Oct 2015 01:00:00 GMT" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <!--
+        Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
+        For details, see http://go.microsoft.com/fwlink/?LinkID=617521
+    -->
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *">-->
+    <meta http-equiv="Content-Security-Policy" content="default-src https: 'self' *.jspm.io data: gap: https://ssl.gstatic.com 'unsafe-eval' 'unsafe-inline' ws://localhost:*; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://*.jspm.io https://*.angularjs.org; media-src *">
+
+    <title>BlankCordovaApp6ang2node</title>
+
+    <!-- BlankCordovaApp6ang2node references -->
+    <link href="css/index.css" rel="stylesheet" />
+
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <!-- platform overrides includes system-polyfills for mobile -->
+    <script src="scripts/platformOverrides.js"></script>
+
+
+    <!-- Add system js -->
+    <script src="scripts/jspm_packages/system.js"></script>
+    <script src="scripts/config.js"></script>
+    <!-- Add mobile override  -->
+    <script src="scripts/mobiledeviceoverride.js"></script>
+
+</head>
+<body>
+    <p>Hello, your application is ready!</p>
+    <test-app></test-app>
+    <script src="scripts/start.js"></script>
+</body>
+</html>

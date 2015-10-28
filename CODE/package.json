@@ -1,0 +1,19 @@
+{
+  "name": "jspm_testing",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jspm": "^0.16.13"
+  },
+  "jspm": {
+    "directories": {
+      "baseURL": "www",
+      "packages": "www/scripts/jspm_packages"
+    },
+    "configFile": "www/scripts/config.js",
+    "dependencies": {
+      "jquery": "github:components/jquery@^2.1.4"
+    },
+    "devDependencies": {}
+  }
+}
