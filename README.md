@@ -1,4 +1,4 @@
-﻿Steps:
+# TypeScript + Cordova + SystemJS #
 
 Installing the Software
 -----------------------
