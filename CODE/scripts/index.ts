@@ -13,7 +13,6 @@ export function initialize():void {
  * Waits for Cordova or if not on a device and cordova is not needed, don't wait and call onDeviceReady.
  */
 function initializeCordova(): void {
-    //var deviceFamily = Windows.System.Profile.AnalyticsInfo.versionInfo.deviceFamily;
     if (!window.cordova) {
         onDeviceReady();
     } else {
