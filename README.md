@@ -1,9 +1,19 @@
-# TypeScript + Cordova + SystemJS #
+ 
+
+#Please use: 
+#[https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta](https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta) 
+
+# This repository is outdated. 
+
+----------
+
+
+## TypeScript + Cordova + SystemJS #
 
 Installing the Software
 -----------------------
 
-# Visual Studio 2015 #
+## Visual Studio 2015 #
 
 Windows and Web Development &gt; Microsoft Web Developer Tools
  HTML/JavaScript (Apache Cordova)
