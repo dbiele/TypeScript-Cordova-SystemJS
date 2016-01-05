@@ -1,9 +1,9 @@
- 
+# This repository is outdated!  [Click here for the latest released version](https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta)
+[https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta](https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta) 
 
-#Please use: 
-#[https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta](https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta) 
 
-# This repository is outdated. 
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 ----------
 
